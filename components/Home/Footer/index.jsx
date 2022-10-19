@@ -64,6 +64,8 @@ function Footer() {
         <p>{error.message}</p>
         <Button type="submit">Submit</Button>
       </Form>
+      <h1>Hi How arw you</h1>
+      <h1>Hammad Nadir</h1>
     </div>
   );
 }
